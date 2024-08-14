@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Vasant Shinde</h1>
-<h3 align="center">A AIDS Engineer from India</h3>
+<h3 align="center">An Artificial Intelligence & Data Science Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedshinde06&label=Profile%20views&color=0e75b6&style=flat" alt="vedshinde06" /> </p>
 
