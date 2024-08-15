@@ -1,23 +1,83 @@
-<h1 align="center">Hi 👋, I'm Vedant Vasant Shinde</h1>
-<h3 align="center">An Artificial Intelligence & Data Science Engineer from India</h3>
+<h1 align="center">Hello, World! 🌍 I'm Vedant Vasant Shinde</h1>
+<h3 align="center">A Passionate Artificial Intelligence & Data Science Engineer from India 🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedshinde06&label=Profile%20views&color=0e75b6&style=flat" alt="vedshinde06" /> </p>
-
-- 📫 How to reach me at [**vedantshinde501@gmail.com**](mailto:vedantshinde501@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedantshinde501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantshinde501" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant-shinde-3b507428a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant-shinde-3b507428a/" height="30" width="40" /></a>
-<a href="https://instagram.com/vedshinde_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vedshinde_06" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedantshinde501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedantshinde501" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedshinde06&label=Profile%20views&color=0e75b6&style=flat" alt="vedshinde06" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- One Piece and Coding Fusion GIF -->
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZsdmkxOTNjeDUzOXNxYTNsdmUybndzeTlnNzMwOWt5dzl6YTQzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.webp" alt="One Piece Coding Fusion" width="400" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedshinde06&show_icons=true&locale=en&layout=compact" alt="vedshinde06" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedshinde06&" alt="vedshinde06" /></p>
+<h3 align="center">🚀 About Me</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedshinde06&show_icons=true&locale=en" alt="vedshinde06" /></p>
+- 🌱 I’m currently deepening my knowledge in **Machine Learning and Data Science**.
+- 💬 Ask me about **Python, C++, and AI-based projects**.
+- 🎯 My goal is to leverage AI to solve real-world problems.
+- 🌐 I love to connect with like-minded individuals and share knowledge.
+
+---
+
+<h3 align="center">📫 How to reach me:</h3>
+
+<p align="center">
+  <a href="mailto:vedantshinde501@gmail.com">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" height="40" width="40" />
+  </a>
+  <a href="https://twitter.com/vedantshinde501" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/vedant-shinde-3b507428a/" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/vedshinde_06" target="_blank">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/vedantshinde501" target="_blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" alt="HackerRank" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">📊 My GitHub Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedshinde06&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedshinde06&" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedshinde06&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+<!-- New Coding GIF -->
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRqZHNhYWxyN2IyZm1sZGthZXk0Y3gxZ3JiZ3I1bm5rYjVhcGR6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XARctHXJvoIQP0rH3y/giphy.webp" alt="Coding GIF" width="400" />
+</p>
+
+<h4 align="center">"Coding is not just code, it is a living thing that solves real-world problems." - <i>Vedant Vasant Shinde</i></h4>
