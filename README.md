@@ -5,13 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=vedshinde06&label=Profile%20views&color=0e75b6&style=flat" alt="vedshinde06" />
 </p>
 
-<!-- One Piece and Coding Fusion GIF -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZsdmkxOTNjeDUzOXNxYTNsdmUybndzeTlnNzMwOWt5dzl6YTQzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghCX1B38YFXAwttIkg/giphy.webp" alt="One Piece Coding Fusion" width="400" />
-</p>
-
----
-
 <h3 align="center">🚀 About Me</h3>
 
 - 🌱 I’m currently deepening my knowledge in **Machine Learning and Data Science**.
@@ -75,9 +68,4 @@
 
 ---
 
-<!-- New Coding GIF -->
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczRqZHNhYWxyN2IyZm1sZGthZXk0Y3gxZ3JiZ3I1bm5rYjVhcGR6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XARctHXJvoIQP0rH3y/giphy.webp" alt="Coding GIF" width="400" />
-</p>
 
-<h4 align="center">"Coding is not just code, it is a living thing that solves real-world problems." - <i>Vedant Vasant Shinde</i></h4>
