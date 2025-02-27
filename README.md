@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Education**: Currently pursuing my degree in Computer Science
+- 🎓 **Education**: Currently pursuing my degree in Artificial Intelligence And Data Science
 - 🌱 I'm currently deepening my knowledge in **Machine Learning and Deep Learning**
 - 💼 **Experience**: Working on AI-based projects to solve real-world problems
 - 💬 Ask me about **Python, C++, ML Algorithms, and Data Analysis**
