@@ -71,6 +71,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vedshinde06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="175" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedshinde06&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -88,6 +92,9 @@
   </a>
   <a href="https://www.hackerrank.com/vedantshinde501" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.kaggle.com/vedantshinde06" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </p>
 
