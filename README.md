@@ -1,7 +1,3 @@
-I've updated the LinkedIn URL in your enhanced GitHub profile. Here's the corrected version:
-
-
-
 <h1 align="center">Hello, World! 👋 I'm Vedant Vasant Shinde</h1>
 <h3 align="center">A Passionate Artificial Intelligence & Data Science Engineer from India 🇮🇳</h3>
 
@@ -39,36 +35,7 @@ I've updated the LinkedIn URL in your enhanced GitHub profile. Here's the correc
 - 💬 Ask me about **Python, C++, ML Algorithms, and Data Analysis**
 - 🎯 My goal is to leverage AI to solve real-world problems and make a positive impact
 - 🌐 I love to connect with like-minded individuals and contribute to open-source projects
-- ⚡ **Fun fact**: I enjoy [Add a personal interest or hobby here]
-
-## 📊 Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Project 1</h3>
-      <p align="center">
-        <a href="https://github.com/vedshinde06/project1" target="_blank">
-          <img src="https://via.placeholder.com/300x200/007bff/ffffff?text=Project+1" width="100%" alt="Project 1"/>
-        </a>
-        <p align="center">
-          Brief description of your first project highlighting key technologies used
-        </p>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Project 2</h3>
-      <p align="center">
-        <a href="https://github.com/vedshinde06/project2" target="_blank">
-          <img src="https://via.placeholder.com/300x200/28a745/ffffff?text=Project+2" width="100%" alt="Project 2"/>
-        </a>
-        <p align="center">
-          Brief description of your second project highlighting key technologies used
-        </p>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🥁 **Fun fact**: I enjoy playing tabla, a traditional Indian percussion instrument
 
 ## 🛠️ Skills & Technologies
 
@@ -104,10 +71,6 @@ I've updated the LinkedIn URL in your enhanced GitHub profile. Here's the correc
   <img src="https://github-readme-stats.vercel.app/api?username=vedshinde06&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" height="175" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedshinde06&theme=radical" alt="GitHub Streak" />
-</p>
-
 ## 📫 Let's Connect!
 
 <p align="center">
@@ -133,6 +96,3 @@ I've updated the LinkedIn URL in your enhanced GitHub profile. Here's the correc
 <p align="center">
   <i>⭐️ From <a href="https://github.com/vedshinde06">vedshinde06</a></i>
 </p>
-
-
-I've updated your LinkedIn URL from `https://linkedin.com/in/vedant-shinde-3b507428a/` to `https://www.linkedin.com/in/vedant-shinde-66531a346`, which is the new URL you provided. The link will now correctly point to your LinkedIn profile.
